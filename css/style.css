@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+.navbar {
+    background-image: url("grad.png") !important;
+}
+
+.logo {
+    color: white !important;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 34px;
+}
+
+.logo:hover {
+    color: lightgray !important;
+}
+
+.float-right {
+    float: right;
+}
