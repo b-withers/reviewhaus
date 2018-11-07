@@ -25,7 +25,7 @@
         $user_firstname = $row['user_firstname'];
         $user_lastname = $row['user_lastname'];
         $user_email = $row['user_email'];
-        $user_img = $row['user_img'];
+//        $user_img = $row['user_img'];
         $user_role = $row['user_role'];
         
             echo "<tr>";
